@@ -5,6 +5,6 @@ code.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/moderninterpreters/markup.git |
-| commit  | b3b8ba2                                              |
+| commit  | 0d094d3                                              |
 | systems | markup                                               |
 |---------+------------------------------------------------------|
